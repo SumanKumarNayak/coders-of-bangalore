@@ -1,0 +1,16 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda / environment folders
+anaconda_projects/
+
+# VS Code / Jupyter virtual documents
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
